@@ -2,9 +2,17 @@
 
 A student machine learning project exploring pediatric appendicitis classification with K-Nearest Neighbors (KNN) and a Multi-Layer Perceptron (MLP). The supplied PDF is a printout of notebook screenshots; the Python source here is a careful reconstruction, not the original notebook file.
 
+<img width="1832" height="982" alt="image" src="https://github.com/user-attachments/assets/1df8f6d3-4baa-4e26-8a2c-5aed90fe1d90" />
+
+
+<img width="1700" height="856" alt="image" src="https://github.com/user-attachments/assets/e4e285f6-7f6a-43ca-b11b-9926c2fb0eb3" />
+
+<img width="1782" height="1010" alt="image" src="https://github.com/user-attachments/assets/58d6cc7c-908e-4921-ad24-731fcc4ed00d" />
+
+
 ## What the PDF shows
 
-- A CSV named `D-7 APPENDICITIS.csv` and target column `DiagnosisByCriteria`.
+- A CSV named `APPENDICITIS.csv` and target column `DiagnosisByCriteria`.
 - A 20% train/test split and categorical encoding.
 - KNN and MLP classifiers, with accuracy, macro precision, macro recall, F1, a classification report, and a confusion matrix.
 - Saved models and a separate `test1.csv` prediction step.
